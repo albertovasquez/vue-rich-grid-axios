@@ -1,0 +1,28 @@
+{
+  "name": "vue-rich-grid-axios",
+  "version": "1.0.0",
+  "description": "Axios get mixin for data http requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertovasquez/vue-rich-grid-axios.git"
+  },
+  "keywords": [
+    "table",
+    "grid",
+    "vue"
+  ],
+  "author": "Alberto Vasquez <alberto.vasquez@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertovasquez/vue-rich-grid-axios/issues"
+  },
+  "homepage": "https://github.com/albertovasquez/vue-rich-grid-axios#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {}
+}
